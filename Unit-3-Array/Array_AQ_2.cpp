@@ -12,7 +12,7 @@ void reverseIntegerArray(int arr[],int size){
 
         }
     }
-}
+} 
 void reverseString(string str,int size){
     int i=0;
     int j=size-1;

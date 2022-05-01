@@ -1,5 +1,7 @@
 /.vscode/
-*.exe
+/Unit-1-Basic/*.exe/
+/Unit-2-Pattern/*.exe/
+/Unit-3-Array/*.exe/
 # /*/*.exe
 # /*/*/*.exe
 # /*/*/*/*.exe
